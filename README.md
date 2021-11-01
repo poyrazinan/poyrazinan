@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poyrazinan&label=Profile%20views&color=2edcb9&style=flat" alt="poyrazinan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poyrazinan" alt="poyrazinan" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://poyrazinan.com.tr](https://poyrazinan.com.tr)
 
 - 💬 Ask me about **Java and SQL**
