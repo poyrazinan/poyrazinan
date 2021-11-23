@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poyrazinan&label=Profile%20views&color=2edcb9&style=flat" alt="poyrazinan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://poyrazinan.com.tr](https://poyrazinan.com.tr)
+- 👨‍💻 All of my projects are available at [https://poyrazinan.com.tr](https://poyrazinan.com.tr) / [https://geik.xyz](https://geik.xyz)
 
-- 💬 Ask me about **Java and SQL**
+- 💬 Ask me about **Java, SQL Queries, JavaScript and Packet wrapping/packet handling**
 
-- 📫 How to reach me **ben@geik.xyz**
+- 📫 How to reach me **ben@poyrazinan.com.tr** / **poyraz.inan@vexus.com.tr** / **ben@geik.xyz**
+
+- 💼 Currently participating Vexus Software and Design company.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
