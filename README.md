@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://poyrazinan.com.tr](https://poyrazinan.com.tr) / [https://geik.xyz](https://geik.xyz)
 
-- 💬 Ask me about **Java, SQL Queries, JavaScript and Packet wrapping/packet handling**
+- 💬 Ask me about **Java and SQL Queries**
 
 - 📫 How to reach me **ben@poyrazinan.com.tr** / **poyraz.inan@vexus.com.tr** / **ben@geik.xyz**
 
