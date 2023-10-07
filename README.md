@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poyrazinan&show_icons=true&theme=dark&locale=en" alt="poyrazinan" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/poyrazinan/poyrazinan/blob/output/github-contribution-grid-snake.gif)
